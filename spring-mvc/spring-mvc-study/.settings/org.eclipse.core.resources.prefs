@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/springmvc/controller/CourseController.java=UTF-8
+encoding//src/main/java/com/springmvc/model/Chapter.java=UTF-8
+encoding//src/main/java/com/springmvc/model/Course.java=UTF-8
+encoding//src/main/java/com/springmvc/model/Course2.java=UTF-8
+encoding//src/main/java/com/springmvc/model/Section.java=UTF-8
+encoding//src/main/java/com/springmvc/service/CourseService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/jsps/maxfail.jsp=UTF-8
+encoding/<project>=UTF-8
